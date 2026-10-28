@@ -1,4 +1,0 @@
-# 本機黑名單。每行一筆,# 開頭為註解。
-#   pkg:com.example.badapp
-#   sha256:<APK 檔案的 SHA-256,小寫>
-# 內建不附任何樣本(避免亂填);自行加入你從可信來源(如 VirusTotal、CERT 通報)取得的項目。
