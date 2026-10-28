@@ -64,7 +64,7 @@ Needs *Usage access* (Settings → Special app access) for the traffic counters.
 Both can be installed side by side. DNS records stay on the device (7 days, clearable). **Limits:** it counts DNS lookups, not bytes per domain; apps using DoH/DoT (e.g. Chrome *Secure DNS*) bypass it; the hour resolution depends on system traffic stats (~1–2 h).
 
 ### Install
-Download the latest APK from **[Releases](../../releases)** and install it (allow "install unknown apps" for your browser/file manager once). Requires Android 8.0+.
+Download the [latest APK](https://github.com/cchuang2009/SecCheck/blob/main/src/app-net-debug.apk) from **[Releases](../../releases)** and install it (allow "install unknown apps" for your browser/file manager once). Requires Android 8.0+.
 
 ### Build
 ```bash
